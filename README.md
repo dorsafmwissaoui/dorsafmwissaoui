@@ -3,8 +3,8 @@
 
 <div align="center">
   <h1>👋 Hi, I'm Dorsaf</h1>
-  <h3>Data Analyst & Machine Learning Enthusiast</h3>
-  <p>Turning messy raw data into actionable business insights, interactive BI dashboards, and predictive machine learning models.</p>
+  <h3>Data Analyst & Data Analyst | Web Developer & Programmer</h3>
+  <p>Bridging software engineering and data analytics—automating data workflows, building interactive BI dashboards, and developing predictive machine learning models to drive smart business decisions.</p>
 </div>
 
 ---
@@ -16,6 +16,7 @@
 | **Programming & Data** | `Python` • `Pandas` • `NumPy` |
 | **Machine Learning** | `Scikit-Learn` • `Random Forest` • `Decision Trees` • `Regression` |
 | **Data Visualization & BI** | `Tableau Public` • `Google Sheets` • `Matplotlib` • `Seaborn` |
+| **Web Development & Databases** | `HTML5` • `CSS3` • `JavaScript` • `SQL` • `Web Scraping / APIs` |
 | **Environment & Version Control** | `Git` • `GitHub` • `Linux Ubuntu` |
 
 ---
