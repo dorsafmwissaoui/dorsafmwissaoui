@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Dorsaf</h1>
+  <h1>Dorsaf Mouissaoui</h1>
   <h4>Data Analysis • Business Intelligence • Predictive Modeling</h4>
   <p>Focused on data cleaning, exploratory analysis, and building clear visual narratives using Python, SQL, and Tableau.</p>
 </div>
