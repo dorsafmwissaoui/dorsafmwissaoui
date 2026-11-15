@@ -16,7 +16,7 @@
 | **Programming & Data** | `Python` • `Pandas` • `NumPy` |
 | **Machine Learning** | `Scikit-Learn` • `Random Forest` • `Decision Trees` • `Regression` |
 | **Data Visualization & BI** | `Tableau Public` • `Google Sheets` • `Matplotlib` • `Seaborn` |
-| **Web Development & Databases** | `C#` • `PHP` • `SQL` |
+| **Programming & Databases** | `C#` • `PHP` • `SQL` |
 | **Environment & Version Control** | `Git` • `GitHub` • `Linux Ubuntu` |
 
 ---
