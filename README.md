@@ -11,16 +11,12 @@
 
 ### Tech Stack & Tools
 
-<div align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Programming & Data** | `Python` • `Pandas` • `NumPy` |
+| **Machine Learning** | `Scikit-Learn` • `Random Forest` • `Decision Trees` • `Regression` |
+| **Data Visualization & BI** | `Tableau Public` • `Google Sheets` • `Matplotlib` • `Seaborn` |
+| **Environment & Version Control** | `Git` • `GitHub` • `Linux Ubuntu` |
 
 ---
 
@@ -44,14 +40,7 @@
 ---
 
 ### 📫 Connect With Me
-<div align="center">
-  <a href="mailto:dorsafmissaoui2@gmail.com">
-    <img src="https://shields.io" />
-  </a>
-  <a href="https://linkedin.com/in/dorsaf-mouissaoui-852b811b7">
-    <img src="https://shields.io" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/dorsaf.mouissaoui/vizzes">
-    <img src="https://shields.io" />
-  </a>
-</div>
+
+* 📧 **Email:** `dorsafmissaoui2@gmail.com`
+* 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com/in/dorsaf-mouissaoui-852b811b7)
+* 📊 **Tableau Public:** [://tableau.com](https://public.tableau.com/app/profile/dorsaf.mouissaoui/vizzes)
