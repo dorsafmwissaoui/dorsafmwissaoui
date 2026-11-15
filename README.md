@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
   <img src="https://shields.io" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Featured Data Projects
+###  Featured Data Projects
 
 #### 1️⃣ [EV Battery Safety & Failure Prediction (20K Records)](https://github.com/dorsafmwissaoui/EV_Battery_Safety_Analysis)
 * **Objective:** Analyzed 70 engineering and operational telemetry features of electric vehicle batteries to uncover root causes of degradation and thermal runaway risks.
@@ -44,15 +44,14 @@
 ---
 
 ### 📫 Connect With Me
-
 <div align="center">
   <a href="mailto:dorsafmissaoui2@gmail.com">
     <img src="https://shields.io" />
   </a>
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/dorsaf-mouissaoui-852b811b7)">
+  <a href="https://linkedin.com/in/dorsaf-mouissaoui-852b811b7">
     <img src="https://shields.io" />
   </a>
-  <a href="[https://tableau.com](https://public.tableau.com/app/profile/dorsaf.mouissaoui/vizzes)">
+  <a href="https://public.tableau.com/app/profile/dorsaf.mouissaoui/vizzes">
     <img src="https://shields.io" />
   </a>
 </div>
