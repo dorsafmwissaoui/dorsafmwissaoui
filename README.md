@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1>👋 Hi, I'm Dorsaf</h1>
-  <h3>Data Analyst & Data Analyst | Web Developer & Programmer</h3>
+  <h3>Data Analyst | Web Developer & Programmer</h3>
   <p>Bridging software engineering and data analytics—automating data workflows, building interactive BI dashboards, and developing predictive machine learning models to drive smart business decisions.</p>
 </div>
 
